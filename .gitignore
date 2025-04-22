@@ -1,0 +1,7 @@
+helper
+deploy.py
+
+source_folder
+*.app
+*.zip
+*.dmg
