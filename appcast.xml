@@ -4,11 +4,11 @@
         <title>cryptogpt</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 23 Apr 2025 00:51:06 +0800</pubDate>
+            <pubDate>Wed, 23 Apr 2025 01:07:10 +0800</pubDate>
             <ns0:version>2</ns0:version>
             <ns0:shortVersionString>1.0</ns0:shortVersionString>
             <ns0:minimumSystemVersion>14.2</ns0:minimumSystemVersion>
-            <enclosure url="https://github.com/gio-XD/surf-release-demo/releases/download/v1.0-2/cryptogpt.zip" length="5019282" type="application/octet-stream" ns0:edSignature="ThxUVOz5dY1awZpdWNby/kQlTlxoFClF/leyur7N80NOA0YutjplUEBsFTjJYrljEwQjCOv+VrsFdwxVy1vDAQ==" />
+            <enclosure url="https://github.com/gio-XD/surf-release-demo/releases/download/v1.0-2/cryptogpt.zip" length="5019536" type="application/octet-stream" ns0:edSignature="jrjFgz29BNCPrQ6R0bbs5D2TF4KNs3x8bFV2A8GQaBDO43Rj6pviLiBEiaoox5ENjRCzggF0XHGZ5CiMG8qKDw==" />
         </item>
     </channel>
 </rss>
