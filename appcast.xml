@@ -3,12 +3,12 @@
     <channel>
         <title>Surf</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Wed, 23 Apr 2025 13:22:54 +0800</pubDate>
-            <ns0:version>1</ns0:version>
-            <ns0:shortVersionString>1.0.1</ns0:shortVersionString>
+            <title>1.0</title>
+            <pubDate>Wed, 23 Apr 2025 13:28:12 +0800</pubDate>
+            <ns0:version>5</ns0:version>
+            <ns0:shortVersionString>1.0</ns0:shortVersionString>
             <ns0:minimumSystemVersion>14.2</ns0:minimumSystemVersion>
-            <enclosure url="https://github.com/gio-XD/surf-release-demo/releases/download/v1.0.1-1/Surf.zip" length="8223806" type="application/octet-stream" ns0:edSignature="zUUXGhLDvcvyj5aAeBHh4SWHeVAPUW+45Vmd/1w46W7Lw3UUdeusFUFKbozo6NXLtElkJwOpJG4btsYtke62BA==" />
+            <enclosure url="https://github.com/gio-XD/surf-release-demo/releases/download/v1.0-5/Surf.zip" length="8223782" type="application/octet-stream" ns0:edSignature="OQ7M1Bjnl5BAnDs5QMV5utTIwnNm78DzCciNqR4NJrS7aLHklJcjqS0xqYhwto43LzjF5PPt/SfWx6FtV3eTAw==" />
         </item>
     </channel>
 </rss>
